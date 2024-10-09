@@ -1,0 +1,28 @@
+html{
+    background-color: grey;
+}
+#Photo{
+    display: flex;
+    justify-content: center;
+    border-radius: 14px;
+}
+h2{
+    color: black;
+}
+.paraOne{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 20px
+}
+.Buttons{
+    display: flex;
+    justify-content: center;
+    border-radius: 14px;
+}
+.name{
+    font-weight: bold;
+    text-align: center;
+    font-size: 2rem;
+}

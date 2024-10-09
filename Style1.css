@@ -1,0 +1,49 @@
+html{
+    background-color: black;
+}
+h1{
+    display: flex;
+    color: aliceblue;
+    text-align: center;
+    font-size: 150px;
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 220px;
+}
+@media(max-width:600px)
+{
+    .full{
+        display: flex;
+        flex-direction: column;
+        text-size-adjust: auto;
+    }
+}
+h2{
+    color: aliceblue;
+    display: inline-block;
+}
+.buttons{
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+#History:hover{
+    background-color: #FF6500;
+}
+#history:active{
+    background-color: azure;
+}
+#About:hover{
+    background-color: #FF6500;
+}
+#History{
+    padding: 10px;
+    border-radius: 10px;
+}
+#About{
+    
+    padding: 10px;
+    border-radius: 10px;
+}

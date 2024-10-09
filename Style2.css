@@ -1,0 +1,39 @@
+.home{
+    background-color: #0B192C;
+}
+html{
+    background-color:#0B192C;
+}
+h1{
+    color: aliceblue;
+}
+.Para{
+    color: aliceblue;
+}
+#main{
+    text-align: center;
+}
+#ParaOne{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+#example{
+    display: flex;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+#ParaTwo{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.Butt-Links{
+    display: flex;
+    justify-content: center;
+}
